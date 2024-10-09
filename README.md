@@ -4,17 +4,20 @@
 ![Conversation with ERIKA](./erika-ss.png)
 
 ## Bot Setup
-1. Go to Discord Developer Portal
-2. Go to Application menu
+1. Go to [Discord Developer Portal](https://discord.com/developers/docs/intro)
+2. Go to "Application" menu
 3. Make a new app
-4. Add bot
-5. pip install discord.py
-6. Copy the bot token
-7. Go to OAuth2 menu
-8. Scroll down, check the "bot" and "Administrator"
-9. Copy the link generated
-10. Paste the link into a new tab
-11. Add the bot into the server
+4. Go to "Bot" menu
+5. Add bot
+6. Generate and copy the bot token
+7. Scroll down, check the "Administrator" checkbox
+8. Go to "OAuth2" menu
+9. Scroll down, check the "bot" and "Administrator" checkbox
+10. Copy the link generated
+11. Paste the link into a new tab
+12. Add the bot into the server
+13. Open terminal
+14. Run `pip install discord.py`
 
 ## Team
 :computer: Developed by me and @Sakticahyaa
